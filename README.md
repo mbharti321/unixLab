@@ -1,11 +1,12 @@
 # unixLab
 ### hiii
-**dsmdshbjd**
-*cdsdc*
-`hello panwala`
+**bold**
+*italic*
+`statement code`
 ```
-  hgsdsvcvds
-  cdsbjhcjh
-  csdcsd
-  csdc
+ code block
+ hi
+ hello
+ world
+ 
 ```
