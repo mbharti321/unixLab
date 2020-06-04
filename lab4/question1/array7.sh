@@ -28,8 +28,8 @@ do
 		((++oddCount))
 	fi
 done
-evenAvg=`expr $evenSum / $evenCount`
-oddAvg=`expr $oddSum / $oddCount`
+evenAvg=`echo "$evenSum  / $evenCount" | bc`
+oddAvg=`echo "$oddSum   / $oddCount " | bc`
 echo "evenSum : $evenSum"
 echo "evenCount : $evenCount"
 echo "EvenAvg : $evenAvg"
