@@ -1,12 +1,10 @@
 # unixLab
-### hiii
+### Hiii
 **bold**
 *italic*
 `statement code`
 ```
  code block
- hi
- hello
- world
- 
+ Hello world! How are you doing?
+Nice to meet you! 
 ```
