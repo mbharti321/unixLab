@@ -1,0 +1,3 @@
+4.Create a shell script (Permission.sh) to assign the file privileges at the time of creating a file based on  ro>echo 5.Write a shell script to group and compress the file based on their file extension
+echo 6.Write a shell script to archive the files which are not accessed for past three months
+echo 7.Create a compressed file called Collection.tar and move all the files starting with a specific character to the 8.Compress the files from the current directory which consume more than 1GB
