@@ -1,0 +1,310 @@
+Script started on 2020-06-20 12:53:03+0530
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ e gre[K[K[K[Kgrep "h" text.txt
+A regular expression is like a mat[01;31m[Kh[m[Kematical expression.
+A mat[01;31m[Kh[m[Kematical expression is made of operands (data) and
+T[01;31m[Kh[m[Ke atom specifies w[01;31m[Kh[m[Kat we are looking for and w[01;31m[Kh[m[Kere in
+t[01;31m[Kh[m[Ke text t[01;31m[Kh[m[Ke matc[01;31m[Kh[m[K is to be made.
+T[01;31m[Kh[m[Ke operator combines atoms into complex expressions.
+[01;31m[Kh[m[Kello byyy
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "h" text.txt[1P[1@z
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "z" text.txt[1P[1@.
+[01;31m[KR[m[K[01;31m[Ke[m[K[01;31m[Kg[m[K[01;31m[Ku[m[K[01;31m[Kl[m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[KE[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K
+[01;31m[KA[m[K[01;31m[K [m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Kg[m[K[01;31m[Ku[m[K[01;31m[Kl[m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Kl[m[K[01;31m[Ki[m[K[01;31m[Kk[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ki[m[K[01;31m[Kc[m[K[01;31m[Ka[m[K[01;31m[Kl[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K.[m[K
+[01;31m[KA[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ki[m[K[01;31m[Kc[m[K[01;31m[Ka[m[K[01;31m[Kl[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kd[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kf[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[K([m[K[01;31m[Kd[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ka[m[K[01;31m[K)[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K
+[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[Ks[m[K[01;31m[K.[m[K
+[01;31m[KA[m[K[01;31m[K [m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Kg[m[K[01;31m[Ku[m[K[01;31m[Kl[m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kd[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kf[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[Ks[m[K[01;31m[K.[m[K
+[01;31m[KT[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[K [m[K[01;31m[Ks[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kc[m[K[01;31m[Ki[m[K[01;31m[Kf[m[K[01;31m[Ki[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Kw[m[K[01;31m[Kh[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[K [m[K[01;31m[Kw[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Kl[m[K[01;31m[Ko[m[K[01;31m[Ko[m[K[01;31m[Kk[m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Kg[m[K[01;31m[K [m[K[01;31m[Kf[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[K [m[K[01;31m[Kw[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Kn[m[K
+[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kt[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Kc[m[K[01;31m[Kh[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[K [m[K[01;31m[Kb[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kd[m[K[01;31m[Ke[m[K[01;31m[K.[m[K
+[01;31m[KT[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Kc[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Kb[m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[K [m[K[01;31m[Kc[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Kp[m[K[01;31m[Kl[m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[Ks[m[K[01;31m[K.[m[K
+[01;31m[K1[m[K[01;31m[K2[m[K[01;31m[K3[m[K[01;31m[K [m[K[01;31m[K4[m[K[01;31m[K5[m[K[01;31m[K [m[K[01;31m[K0[m[K[01;31m[K.[m[K[01;31m[K5[m[K[01;31m[K [m[K[01;31m[K3[m[K[01;31m[K4[m[K[01;31m[K5[m[K[01;31m[K6[m[K[01;31m[K [m[K[01;31m[K#[m[K[01;31m[K$[m[K[01;31m[K#[m[K[01;31m[K%[m[K[01;31m[K$[m[K[01;31m[K#[m[K[01;31m[K [m[K
+[01;31m[K@[m[K[01;31m[K![m[K[01;31m[K$[m[K[01;31m[K^[m[K[01;31m[K*[m[K[01;31m[K)[m[K[01;31m[K.[m[K
+[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Kl[m[K[01;31m[Kl[m[K[01;31m[Ko[m[K[01;31m[K [m[K[01;31m[Kb[m[K[01;31m[Ky[m[K[01;31m[Ky[m[K[01;31m[Ky[m[K
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "." text.txt[1@h
+A regular expression is like a mat[01;31m[Khe[m[Kmatical expression.
+A mat[01;31m[Khe[m[Kmatical expression is made of operands (data) and
+T[01;31m[Khe[m[K atom specifies w[01;31m[Kha[m[Kt we are looking for and w[01;31m[Khe[m[Kre in
+t[01;31m[Khe[m[K text t[01;31m[Khe[m[K matc[01;31m[Kh [m[Kis to be made.
+T[01;31m[Khe[m[K operator combines atoms into complex expressions.
+[01;31m[Khe[m[Kllo byyy
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "h." text.txt[1@/[1P[1@.
+A regular expression is like a ma[01;31m[Kthe[m[Kmatical expression.
+A ma[01;31m[Kthe[m[Kmatical expression is made of operands (data) and
+[01;31m[KThe[m[K atom specifies [01;31m[Kwha[m[Kt we are looking for and [01;31m[Kwhe[m[Kre in
+[01;31m[Kthe[m[K text [01;31m[Kthe[m[K mat[01;31m[Kch [m[Kis to be made.
+[01;31m[KThe[m[K operator combines atoms into complex expressions.
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep ".h." text.txt[1P[1P[1@e
+[01;31m[KRe[m[Kgular Exp[01;31m[Kre[m[Kssion
+A [01;31m[Kre[m[Kgular[01;31m[K e[m[Kxp[01;31m[Kre[m[Kssion is li[01;31m[Kke[m[K a mat[01;31m[Khe[m[Kmatical[01;31m[K e[m[Kxp[01;31m[Kre[m[Kssion.
+A mat[01;31m[Khe[m[Kmatical[01;31m[K e[m[Kxp[01;31m[Kre[m[Kssion is ma[01;31m[Kde[m[K of o[01;31m[Kpe[m[Krands (data) and
+o[01;31m[Kpe[m[Krators.
+A [01;31m[Kre[m[Kgular[01;31m[K e[m[Kxp[01;31m[Kre[m[Kssion is ma[01;31m[Kde[m[K of atoms and o[01;31m[Kpe[m[Krators.
+T[01;31m[Khe[m[K atom s[01;31m[Kpe[m[Kcif[01;31m[Kie[m[Ks what [01;31m[Kwe[m[K a[01;31m[Kre[m[K looking for and w[01;31m[Khe[m[K[01;31m[Kre[m[K in
+t[01;31m[Khe[m[K [01;31m[Kte[m[Kxt t[01;31m[Khe[m[K match is to [01;31m[Kbe[m[K ma[01;31m[Kde[m[K.
+T[01;31m[Khe[m[K o[01;31m[Kpe[m[Krator combi[01;31m[Kne[m[Ks atoms into comp[01;31m[Kle[m[Kx[01;31m[K e[m[Kxp[01;31m[Kre[m[Kssions.
+[01;31m[Khe[m[Kllo byyy
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep ".e" text.txt[C[1P text.txt[1P text.txt[1P text.txt[1P text.txt{ text.txt[1P text.txt[ text.txta text.txt- text.txtc text.txt] text.txt
+the text the match is to [01;31m[Kb[m[Ke made.
+The operator com[01;31m[Kb[m[Kines atoms into complex expressions.
+hello [01;31m[Kb[m[Kyyy
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep [a-c] text.txt[C[1@"[C[C[C[C[C[C" text.txt
+Regul[01;31m[Ka[m[Kr Expression
+A regul[01;31m[Ka[m[Kr expression is like [01;31m[Ka[m[K m[01;31m[Ka[m[Kthem[01;31m[Ka[m[Kti[01;31m[Kc[m[K[01;31m[Ka[m[Kl expression.
+A m[01;31m[Ka[m[Kthem[01;31m[Ka[m[Kti[01;31m[Kc[m[K[01;31m[Ka[m[Kl expression is m[01;31m[Ka[m[Kde of oper[01;31m[Ka[m[Knds (d[01;31m[Ka[m[Kt[01;31m[Ka[m[K) [01;31m[Ka[m[Knd
+oper[01;31m[Ka[m[Ktors.
+A regul[01;31m[Ka[m[Kr expression is m[01;31m[Ka[m[Kde of [01;31m[Ka[m[Ktoms [01;31m[Ka[m[Knd oper[01;31m[Ka[m[Ktors.
+The [01;31m[Ka[m[Ktom spe[01;31m[Kc[m[Kifies wh[01;31m[Ka[m[Kt we [01;31m[Ka[m[Kre looking for [01;31m[Ka[m[Knd where in
+the text the m[01;31m[Ka[m[Kt[01;31m[Kc[m[Kh is to [01;31m[Kb[m[Ke m[01;31m[Ka[m[Kde.
+The oper[01;31m[Ka[m[Ktor [01;31m[Kc[m[Kom[01;31m[Kb[m[Kines [01;31m[Ka[m[Ktoms into [01;31m[Kc[m[Komplex expressions.
+hello [01;31m[Kb[m[Kyyy
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "[a-c]" text.txt[1P
+Regul[01;31m[Ka[m[Kr Expression
+A regul[01;31m[Ka[m[Kr expression is like [01;31m[Ka[m[K m[01;31m[Ka[m[Kthem[01;31m[Ka[m[Kti[01;31m[Kc[m[K[01;31m[Ka[m[Kl expression.
+A m[01;31m[Ka[m[Kthem[01;31m[Ka[m[Kti[01;31m[Kc[m[K[01;31m[Ka[m[Kl expression is m[01;31m[Ka[m[Kde of oper[01;31m[Ka[m[Knds (d[01;31m[Ka[m[Kt[01;31m[Ka[m[K) [01;31m[Ka[m[Knd
+oper[01;31m[Ka[m[Ktors.
+A regul[01;31m[Ka[m[Kr expression is m[01;31m[Ka[m[Kde of [01;31m[Ka[m[Ktoms [01;31m[Ka[m[Knd oper[01;31m[Ka[m[Ktors.
+The [01;31m[Ka[m[Ktom spe[01;31m[Kc[m[Kifies wh[01;31m[Ka[m[Kt we [01;31m[Ka[m[Kre looking for [01;31m[Ka[m[Knd where in
+the text the m[01;31m[Ka[m[Kt[01;31m[Kc[m[Kh is to be m[01;31m[Ka[m[Kde.
+The oper[01;31m[Ka[m[Ktor [01;31m[Kc[m[Kombines [01;31m[Ka[m[Ktoms into [01;31m[Kc[m[Komplex expressions.
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "[ac]" text.txt[1@^
+[01;31m[KR[m[K[01;31m[Ke[m[K[01;31m[Kg[m[K[01;31m[Ku[m[K[01;31m[Kl[m[Ka[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[KE[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K
+[01;31m[KA[m[K[01;31m[K [m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Kg[m[K[01;31m[Ku[m[K[01;31m[Kl[m[Ka[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Kl[m[K[01;31m[Ki[m[K[01;31m[Kk[m[K[01;31m[Ke[m[K[01;31m[K [m[Ka[01;31m[K [m[K[01;31m[Km[m[Ka[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Km[m[Ka[01;31m[Kt[m[K[01;31m[Ki[m[Kca[01;31m[Kl[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K.[m[K
+[01;31m[KA[m[K[01;31m[K [m[K[01;31m[Km[m[Ka[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Km[m[Ka[01;31m[Kt[m[K[01;31m[Ki[m[Kca[01;31m[Kl[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Km[m[Ka[01;31m[Kd[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kf[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[Ka[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[K([m[K[01;31m[Kd[m[Ka[01;31m[Kt[m[Ka[01;31m[K)[m[K[01;31m[K [m[Ka[01;31m[Kn[m[K[01;31m[Kd[m[K
+[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[Ka[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[Ks[m[K[01;31m[K.[m[K
+[01;31m[KA[m[K[01;31m[K [m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Kg[m[K[01;31m[Ku[m[K[01;31m[Kl[m[Ka[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Km[m[Ka[01;31m[Kd[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kf[m[K[01;31m[K [m[Ka[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Ks[m[K[01;31m[K [m[Ka[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[Ka[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[Ks[m[K[01;31m[K.[m[K
+[01;31m[KT[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[Ka[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[K [m[K[01;31m[Ks[m[K[01;31m[Kp[m[K[01;31m[Ke[m[Kc[01;31m[Ki[m[K[01;31m[Kf[m[K[01;31m[Ki[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Kw[m[K[01;31m[Kh[m[Ka[01;31m[Kt[m[K[01;31m[K [m[K[01;31m[Kw[m[K[01;31m[Ke[m[K[01;31m[K [m[Ka[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Kl[m[K[01;31m[Ko[m[K[01;31m[Ko[m[K[01;31m[Kk[m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Kg[m[K[01;31m[K [m[K[01;31m[Kf[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[K [m[Ka[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[K [m[K[01;31m[Kw[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Kn[m[K
+[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kt[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Km[m[Ka[01;31m[Kt[m[Kc[01;31m[Kh[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[K [m[K[01;31m[Kb[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Km[m[Ka[01;31m[Kd[m[K[01;31m[Ke[m[K[01;31m[K.[m[K
+[01;31m[KT[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[Ka[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[K [m[Kc[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Kb[m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[K [m[Ka[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[K [m[Kc[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Kp[m[K[01;31m[Kl[m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[Ks[m[K[01;31m[K.[m[K
+[01;31m[K1[m[K[01;31m[K2[m[K[01;31m[K3[m[K[01;31m[K [m[K[01;31m[K4[m[K[01;31m[K5[m[K[01;31m[K [m[K[01;31m[K0[m[K[01;31m[K.[m[K[01;31m[K5[m[K[01;31m[K [m[K[01;31m[K3[m[K[01;31m[K4[m[K[01;31m[K5[m[K[01;31m[K6[m[K[01;31m[K [m[K[01;31m[K#[m[K[01;31m[K$[m[K[01;31m[K#[m[K[01;31m[K%[m[K[01;31m[K$[m[K[01;31m[K#[m[K[01;31m[K [m[K
+[01;31m[K@[m[K[01;31m[K![m[K[01;31m[K$[m[K[01;31m[K^[m[K[01;31m[K*[m[K[01;31m[K)[m[K[01;31m[K.[m[K
+[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Kl[m[K[01;31m[Kl[m[K[01;31m[Ko[m[K[01;31m[K [m[K[01;31m[Kb[m[K[01;31m[Ky[m[K[01;31m[Ky[m[K[01;31m[Ky[m[K
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "[^ac]" text.txt[C[C[1@^
+[01;31m[KR[m[Kegular Expression
+[01;31m[KA[m[K regular expression is like a mathematical expression.
+[01;31m[KA[m[K mathematical expression is made of operands (data) and
+[01;31m[Ko[m[Kperators.
+[01;31m[KA[m[K regular expression is made of atoms and operators.
+[01;31m[KT[m[Khe atom specifies what we are looking for and where in
+[01;31m[Kt[m[Khe text the match is to be made.
+[01;31m[KT[m[Khe operator combines atoms into complex expressions.
+[01;31m[K1[m[K23 45 0.5 3456 #$#%$# 
+[01;31m[K@[m[K!$^*).
+[01;31m[Kh[m[Kello byyy
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "^[^ac]" text.txt[1P
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "^[ac]" text.txt[1P[1P[1P[1P[1@[[1@A[1@-[1@H
+Regular [01;31m[KE[m[Kxpression
+[01;31m[KA[m[K regular expression is like a mathematical expression.
+[01;31m[KA[m[K mathematical expression is made of operands (data) and
+[01;31m[KA[m[K regular expression is made of atoms and operators.
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "[A-H]" text.txt[1P[1@h
+[01;31m[KR[m[K[01;31m[Ke[m[K[01;31m[Kg[m[Kul[01;31m[Ka[m[Kr [01;31m[KE[m[Kxpr[01;31m[Ke[m[Kssion
+[01;31m[KA[m[K r[01;31m[Ke[m[K[01;31m[Kg[m[Kul[01;31m[Ka[m[Kr [01;31m[Ke[m[Kxpr[01;31m[Ke[m[Kssion is lik[01;31m[Ke[m[K [01;31m[Ka[m[K m[01;31m[Ka[m[Kt[01;31m[Kh[m[K[01;31m[Ke[m[Km[01;31m[Ka[m[Kti[01;31m[Kc[m[K[01;31m[Ka[m[Kl [01;31m[Ke[m[Kxpr[01;31m[Ke[m[Kssion.
+[01;31m[KA[m[K m[01;31m[Ka[m[Kt[01;31m[Kh[m[K[01;31m[Ke[m[Km[01;31m[Ka[m[Kti[01;31m[Kc[m[K[01;31m[Ka[m[Kl [01;31m[Ke[m[Kxpr[01;31m[Ke[m[Kssion is m[01;31m[Ka[m[K[01;31m[Kd[m[K[01;31m[Ke[m[K o[01;31m[Kf[m[K op[01;31m[Ke[m[Kr[01;31m[Ka[m[Kn[01;31m[Kd[m[Ks ([01;31m[Kd[m[K[01;31m[Ka[m[Kt[01;31m[Ka[m[K) [01;31m[Ka[m[Kn[01;31m[Kd[m[K
+op[01;31m[Ke[m[Kr[01;31m[Ka[m[Ktors.
+[01;31m[KA[m[K r[01;31m[Ke[m[K[01;31m[Kg[m[Kul[01;31m[Ka[m[Kr [01;31m[Ke[m[Kxpr[01;31m[Ke[m[Kssion is m[01;31m[Ka[m[K[01;31m[Kd[m[K[01;31m[Ke[m[K o[01;31m[Kf[m[K [01;31m[Ka[m[Ktoms [01;31m[Ka[m[Kn[01;31m[Kd[m[K op[01;31m[Ke[m[Kr[01;31m[Ka[m[Ktors.
+[01;31m[KT[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K [01;31m[Ka[m[Ktom sp[01;31m[Ke[m[K[01;31m[Kc[m[Ki[01;31m[Kf[m[Ki[01;31m[Ke[m[Ks w[01;31m[Kh[m[K[01;31m[Ka[m[Kt w[01;31m[Ke[m[K [01;31m[Ka[m[Kr[01;31m[Ke[m[K lookin[01;31m[Kg[m[K [01;31m[Kf[m[Kor [01;31m[Ka[m[Kn[01;31m[Kd[m[K w[01;31m[Kh[m[K[01;31m[Ke[m[Kr[01;31m[Ke[m[K in
+t[01;31m[Kh[m[K[01;31m[Ke[m[K t[01;31m[Ke[m[Kxt t[01;31m[Kh[m[K[01;31m[Ke[m[K m[01;31m[Ka[m[Kt[01;31m[Kc[m[K[01;31m[Kh[m[K is to [01;31m[Kb[m[K[01;31m[Ke[m[K m[01;31m[Ka[m[K[01;31m[Kd[m[K[01;31m[Ke[m[K.
+[01;31m[KT[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K op[01;31m[Ke[m[Kr[01;31m[Ka[m[Ktor [01;31m[Kc[m[Kom[01;31m[Kb[m[Kin[01;31m[Ke[m[Ks [01;31m[Ka[m[Ktoms into [01;31m[Kc[m[Kompl[01;31m[Ke[m[Kx [01;31m[Ke[m[Kxpr[01;31m[Ke[m[Kssions.
+@!$[01;31m[K^[m[K*).
+[01;31m[Kh[m[K[01;31m[Ke[m[Kllo [01;31m[Kb[m[Kyyy
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "[A-h]" text.txtH[C[C[C[C[C[C[C[C[C[C[Ch[C[C[C[C[C[C[C[C[C[C[C[K{[Krcho [K[K[K[K[Kecho {a[KA-h}
+{A-h}
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ echo {A-h}`{A-h}[C[C[C[C[C`
+{A-h}: command not found
+
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ echo `{A-h}`[1Ph}`.h}`.h}`
+A: command not found
+
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ echo `{A..h}`[1P-h}`[2P{A-h}[1Ph}.h}.h}
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [  ] ^ _ ` a b c d e f g h
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ echo {A..h}`{A..h}`[1P-h}`[2P{A-h}grep "[A-h]" text.txt[1P
+[01;31m[KA[m[K regular expression is like a mathematical expression.
+[01;31m[KA[m[K mathematical expression is made of operands (data) and
+[01;31m[KA[m[K regular expression is made of atoms and operators.
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "[A-]" text.txt[C[1@Z
+[01;31m[KR[m[Kegular [01;31m[KE[m[Kxpression
+[01;31m[KA[m[K regular expression is like a mathematical expression.
+[01;31m[KA[m[K mathematical expression is made of operands (data) and
+[01;31m[KA[m[K regular expression is made of atoms and operators.
+[01;31m[KT[m[Khe atom specifies what we are looking for and where in
+[01;31m[KT[m[Khe operator combines atoms into complex expressions.
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "[A-Z]" text.txt[1P[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1@0[1@-[1@9
+[01;31m[K1[m[K[01;31m[K2[m[K[01;31m[K3[m[K [01;31m[K4[m[K[01;31m[K5[m[K [01;31m[K0[m[K.[01;31m[K5[m[K [01;31m[K3[m[K[01;31m[K4[m[K[01;31m[K5[m[K[01;31m[K6[m[K #$#%$# 
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "[0-9]" text.txt[C[C[C[C[C[C[C[C[C[1P[1P[1P[1@#
+123 45 0.5 3456 [01;31m[K#[m[K$[01;31m[K#[m[K%$[01;31m[K#[m[K 
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "[#]" text.txt[1P[1@1
+[01;31m[K1[m[K23 45 0.5 3456 #$#%$# 
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "[1]" text.txt[1P[1@9
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "[9]" text.txt1[C[C[C[C[C[C[C[C[C[C[C#[C[C[C[C[C[C[C[C[C[C[C[1P[1@![1P[1@^[1@0[1@-[1@9
+[01;31m[KR[m[K[01;31m[Ke[m[K[01;31m[Kg[m[K[01;31m[Ku[m[K[01;31m[Kl[m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[KE[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K
+[01;31m[KA[m[K[01;31m[K [m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Kg[m[K[01;31m[Ku[m[K[01;31m[Kl[m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Kl[m[K[01;31m[Ki[m[K[01;31m[Kk[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ki[m[K[01;31m[Kc[m[K[01;31m[Ka[m[K[01;31m[Kl[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K.[m[K
+[01;31m[KA[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ki[m[K[01;31m[Kc[m[K[01;31m[Ka[m[K[01;31m[Kl[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kd[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kf[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[K([m[K[01;31m[Kd[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ka[m[K[01;31m[K)[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K
+[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[Ks[m[K[01;31m[K.[m[K
+[01;31m[KA[m[K[01;31m[K [m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Kg[m[K[01;31m[Ku[m[K[01;31m[Kl[m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kd[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kf[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[Ks[m[K[01;31m[K.[m[K
+[01;31m[KT[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[K [m[K[01;31m[Ks[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kc[m[K[01;31m[Ki[m[K[01;31m[Kf[m[K[01;31m[Ki[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Kw[m[K[01;31m[Kh[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[K [m[K[01;31m[Kw[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Kl[m[K[01;31m[Ko[m[K[01;31m[Ko[m[K[01;31m[Kk[m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Kg[m[K[01;31m[K [m[K[01;31m[Kf[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[K [m[K[01;31m[Kw[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Kn[m[K
+[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kt[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Kc[m[K[01;31m[Kh[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[K [m[K[01;31m[Kb[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kd[m[K[01;31m[Ke[m[K[01;31m[K.[m[K
+[01;31m[KT[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Kc[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Kb[m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[K [m[K[01;31m[Kc[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Kp[m[K[01;31m[Kl[m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[Ks[m[K[01;31m[K.[m[K
+123[01;31m[K [m[K45[01;31m[K [m[K0[01;31m[K.[m[K5[01;31m[K [m[K3456[01;31m[K [m[K[01;31m[K#[m[K[01;31m[K$[m[K[01;31m[K#[m[K[01;31m[K%[m[K[01;31m[K$[m[K[01;31m[K#[m[K[01;31m[K [m[K
+[01;31m[K@[m[K[01;31m[K![m[K[01;31m[K$[m[K[01;31m[K^[m[K[01;31m[K*[m[K[01;31m[K)[m[K[01;31m[K.[m[K
+[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Kl[m[K[01;31m[Kl[m[K[01;31m[Ko[m[K[01;31m[K [m[K[01;31m[Kb[m[K[01;31m[Ky[m[K[01;31m[Ky[m[K[01;31m[Ky[m[K
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "[^0-9]" text.txt[C[C[1P[1P[1P[1@\[1@^
+[01;31m[KR[m[K[01;31m[Ke[m[K[01;31m[Kg[m[K[01;31m[Ku[m[K[01;31m[Kl[m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[KE[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K
+[01;31m[KA[m[K[01;31m[K [m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Kg[m[K[01;31m[Ku[m[K[01;31m[Kl[m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Kl[m[K[01;31m[Ki[m[K[01;31m[Kk[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ki[m[K[01;31m[Kc[m[K[01;31m[Ka[m[K[01;31m[Kl[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K.[m[K
+[01;31m[KA[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ki[m[K[01;31m[Kc[m[K[01;31m[Ka[m[K[01;31m[Kl[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kd[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kf[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[K([m[K[01;31m[Kd[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ka[m[K[01;31m[K)[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K
+[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[Ks[m[K[01;31m[K.[m[K
+[01;31m[KA[m[K[01;31m[K [m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Kg[m[K[01;31m[Ku[m[K[01;31m[Kl[m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kd[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kf[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[Ks[m[K[01;31m[K.[m[K
+[01;31m[KT[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[K [m[K[01;31m[Ks[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kc[m[K[01;31m[Ki[m[K[01;31m[Kf[m[K[01;31m[Ki[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Kw[m[K[01;31m[Kh[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[K [m[K[01;31m[Kw[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Kl[m[K[01;31m[Ko[m[K[01;31m[Ko[m[K[01;31m[Kk[m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Kg[m[K[01;31m[K [m[K[01;31m[Kf[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[K [m[K[01;31m[Kw[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Kn[m[K
+[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kt[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Kc[m[K[01;31m[Kh[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[K [m[K[01;31m[Kb[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kd[m[K[01;31m[Ke[m[K[01;31m[K.[m[K
+[01;31m[KT[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Kc[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Kb[m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[K [m[K[01;31m[Kc[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Kp[m[K[01;31m[Kl[m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[Ks[m[K[01;31m[K.[m[K
+[01;31m[K1[m[K[01;31m[K2[m[K[01;31m[K3[m[K[01;31m[K [m[K[01;31m[K4[m[K[01;31m[K5[m[K[01;31m[K [m[K[01;31m[K0[m[K[01;31m[K.[m[K[01;31m[K5[m[K[01;31m[K [m[K[01;31m[K3[m[K[01;31m[K4[m[K[01;31m[K5[m[K[01;31m[K6[m[K[01;31m[K [m[K[01;31m[K#[m[K[01;31m[K$[m[K[01;31m[K#[m[K[01;31m[K%[m[K[01;31m[K$[m[K[01;31m[K#[m[K[01;31m[K [m[K
+[01;31m[K@[m[K[01;31m[K![m[K[01;31m[K$[m[K^[01;31m[K*[m[K[01;31m[K)[m[K[01;31m[K.[m[K
+[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Kl[m[K[01;31m[Kl[m[K[01;31m[Ko[m[K[01;31m[K [m[K[01;31m[Kb[m[K[01;31m[Ky[m[K[01;31m[Ky[m[K[01;31m[Ky[m[K
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "[^\^]" text.txt[1P[1P[1P[C[1@\[1@<[C[1@a[1@-[1@e
+A regular [01;31m[Ke[m[Kxpression is like [01;31m[Ka[m[K mathematical [01;31m[Ke[m[Kxpression.
+A mathematical [01;31m[Ke[m[Kxpression is made of operands ([01;31m[Kd[m[Kata) [01;31m[Ka[m[Knd
+A regular [01;31m[Ke[m[Kxpression is made of [01;31m[Ka[m[Ktoms [01;31m[Ka[m[Knd operators.
+The [01;31m[Ka[m[Ktom specifies what we [01;31m[Ka[m[Kre looking for [01;31m[Ka[m[Knd where in
+the text the match is to [01;31m[Kb[m[Ke made.
+The operator [01;31m[Kc[m[Kombines [01;31m[Ka[m[Ktoms into [01;31m[Kc[m[Komplex [01;31m[Ke[m[Kxpressions.
+hello [01;31m[Kb[m[Kyyy
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "\<[a-e]" text.txt[C[1P[1P[1@\[1@>
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "\>[a-e]" text.txt[1P[1P[C[C[C[C[C[1@\[1@>
+A regular expression is lik[01;31m[Ke[m[K [01;31m[Ka[m[K mathematical expression.
+A mathematical expression is mad[01;31m[Ke[m[K of operands (dat[01;31m[Ka[m[K) an[01;31m[Kd[m[K
+A regular expression is mad[01;31m[Ke[m[K of atoms an[01;31m[Kd[m[K operators.
+Th[01;31m[Ke[m[K atom specifies what w[01;31m[Ke[m[K ar[01;31m[Ke[m[K looking for an[01;31m[Kd[m[K wher[01;31m[Ke[m[K in
+th[01;31m[Ke[m[K text th[01;31m[Ke[m[K match is to b[01;31m[Ke[m[K mad[01;31m[Ke[m[K.
+Th[01;31m[Ke[m[K operator combines atoms into complex expressions.
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "[a-e]\>" text.txt[1P[1P[1P[1P[1P[1P[1@0[1@-[1@9[1@][1@[[1@2[1@-[1@5[1@]
+[01;31m[K12[m[K3 [01;31m[K45[m[K 0.5 [01;31m[K34[m[K56 #$#%$# 
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "[0-9][2-5]" text.txt[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@^[1@$
+
+
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ cat egrep "^$" text.txtcat [K[K[K[K[Kegrep "^$" text.txt[1@.
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ echo "h"[K[K[K[K[K[K[K[Kec[K[Kca[K[Kecho "ec[K" >> tx[Kext
+text.txt       text_file.txt  
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ echo "e" >> textgrep "^.$" text.txt[4Pcho "e" >> text.txt
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ echo "e" >> text.txt[C[1P[1@f
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ echo "f" >> text.txte[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep "^.$"[C[C[C[C[C[C[C[C[C
+[01;31m[Ke[m[K
+[01;31m[Kf[m[K
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "^.$" text.txt[1P[1P[1P[1@h[1@e[1@l[1@l[1@o[1@ [1@|[1@H[1@e[1@l[1@l[1@o
+[01;31m[Khello [m[Kbyyy
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "hello |Hello" text.txt[C[C[C[C[1P[1P[1P[1P[C[1P[1P[1P[1P[1@e[1P
+the text the matc[01;31m[Kh [m[Kis to be made.
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "h |H" text.txt[1@ 
+the text the matc[01;31m[Kh [m[Kis to be made.
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "h | H" text.txt[1@e
+the text the matc[01;31m[Kh [m[Kis to be made.
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "h | He" text.txt[1@e
+T[01;31m[Khe [m[Katom specifies what we are looking for and where in
+t[01;31m[Khe [m[Ktext t[01;31m[Khe [m[Kmatch is to be made.
+T[01;31m[Khe [m[Koperator combines atoms into complex expressions.
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "he | He" text.txt[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[8@ello |Hello[C[C[C[C[C[C[C[C[C[C[9P^.$[C[C[C[C[C[C[C[C[C[Ccho "f" >>[C[C[C[C[C[C[C[C[C[1P[1@a[1@a[1@a[1@a[1@a[1@a[1@a[1@a[1@a
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ echo "aaaaaaaaa" >> text.txt[1P[1P[1P[1P[1P
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ echo "aaaa" >> text.txt[C[C[C[1P[1P
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ echo "aa" >> text.txt[1P[1P[1@b[1@b
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ echo "bb" >> text.txt[1@b
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ echo "bbb" >> text.txt[1@b
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ echo "bbbb" >> text.txt[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[Caa[C[C[C[C[C[C[C[C[C[C[C[C[C[2@aa[C[C[C[C[C[C[C[C[C[C[C[C[C[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[2@aa[C[C[C[C[C[C[C[C[C[C[C[C[C[5@aaaaa[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Pgrep "he | He"[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1@\[1@{[1@2[1@ [1@,[1@ [1@5[1@}[1P[1@\[1@}
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "\{2 , 5\}" text.txt[1@a
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "a\{2 , 5\}" text.txt[1P[1@5
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "5\{2 , 5\}" text.txt[1P[1@b
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "b\{2 , 5\}" text.txt5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cb[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[1P
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "b\{2,5\}" text.txt[C[C[1P[C[1@\
+> ^C
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "b\{2,5}\" text.txt[1P text.txt[1P text.txt[1P text.txt\ text.txt} text.txt" text.txt
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep "b\{2,5\}" text.txt[1P[C[C[C[C[C[C[C[C[C[1P text.txt
+[01;31m[Kbb[m[K
+[01;31m[Kbbb[m[K
+[01;31m[Kbbbb[m[K
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep b\{2,5\} text.txt[1P[1@2[1P[1@1
+grep: Invalid content of \{\}
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep b\{2,1\} text.txt[1P[1@3
+[01;31m[Kbb[m[K
+[01;31m[Kbbb[m[K
+[01;31m[Kbbb[m[Kb
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep b\{2,3\} text.txt[C[C[1P[1P
+[01;31m[Kbb[m[K
+[01;31m[Kbb[m[Kb
+[01;31m[Kbb[m[K[01;31m[Kbb[m[K
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep b\{2\} text.txt[1@,
+[01;31m[Kbb[m[K
+[01;31m[Kbbb[m[K
+[01;31m[Kbbbb[m[K
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep b\{2,\} text.txt[1@5[1P
+Regular Expression
+
+A regular expression is like a mathematical expression.
+A mathematical expression is made of operands (data) and
+operators.
+A regular expression is made of atoms and operators.
+The atom specifies what we are looking for and where in
+the text the match is to [01;31m[Kb[m[Ke made.
+The operator com[01;31m[Kb[m[Kines atoms into complex expressions.
+123 45 0.5 3456 #$#%$# 
+@!$^*).
+
+hello [01;31m[Kb[m[Kyyy
+e
+f
+aaaaaaaaa
+aaaa
+aa
+[01;31m[Kbb[m[K
+[01;31m[Kbbb[m[K
+[01;31m[Kbbbb[m[K
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep b\{,5\} text.txt[1@.
+[01;31m[KR[m[K[01;31m[Ke[m[K[01;31m[Kg[m[K[01;31m[Ku[m[K[01;31m[Kl[m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[KE[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K
+[01;31m[KA[m[K[01;31m[K [m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Kg[m[K[01;31m[Ku[m[K[01;31m[Kl[m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Kl[m[K[01;31m[Ki[m[K[01;31m[Kk[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ki[m[K[01;31m[Kc[m[K[01;31m[Ka[m[K[01;31m[Kl[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K.[m[K
+[01;31m[KA[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ki[m[K[01;31m[Kc[m[K[01;31m[Ka[m[K[01;31m[Kl[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kd[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kf[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[K([m[K[01;31m[Kd[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ka[m[K[01;31m[K)[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K
+[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[Ks[m[K[01;31m[K.[m[K
+[01;31m[KA[m[K[01;31m[K [m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Kg[m[K[01;31m[Ku[m[K[01;31m[Kl[m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kd[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kf[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[Ks[m[K[01;31m[K.[m[K
+[01;31m[KT[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[K [m[K[01;31m[Ks[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kc[m[K[01;31m[Ki[m[K[01;31m[Kf[m[K[01;31m[Ki[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Kw[m[K[01;31m[Kh[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[K [m[K[01;31m[Kw[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Kl[m[K[01;31m[Ko[m[K[01;31m[Ko[m[K[01;31m[Kk[m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Kg[m[K[01;31m[K [m[K[01;31m[Kf[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[K [m[K[01;31m[Kw[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Kn[m[K
+[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kt[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Kc[m[K[01;31m[Kh[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[K b[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ka[m[K[01;31m[Kd[m[K[01;31m[Ke[m[K[01;31m[K.[m[K
+[01;31m[KT[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Kc[m[K[01;31m[Ko[m[K[01;31m[Kmb[m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[K [m[K[01;31m[Kc[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Kp[m[K[01;31m[Kl[m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Kx[m[K[01;31m[Kp[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[Ks[m[K[01;31m[K.[m[K
+[01;31m[K1[m[K[01;31m[K2[m[K[01;31m[K3[m[K[01;31m[K [m[K[01;31m[K4[m[K[01;31m[K5[m[K[01;31m[K [m[K[01;31m[K0[m[K[01;31m[K.[m[K[01;31m[K5[m[K[01;31m[K [m[K[01;31m[K3[m[K[01;31m[K4[m[K[01;31m[K5[m[K[01;31m[K6[m[K[01;31m[K [m[K[01;31m[K#[m[K[01;31m[K$[m[K[01;31m[K#[m[K[01;31m[K%[m[K[01;31m[K$[m[K[01;31m[K#[m[K[01;31m[K [m[K
+[01;31m[K@[m[K[01;31m[K![m[K[01;31m[K$[m[K[01;31m[K^[m[K[01;31m[K*[m[K[01;31m[K)[m[K[01;31m[K.[m[K
+[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Kl[m[K[01;31m[Kl[m[K[01;31m[Ko[m[K[01;31m[K b[m[K[01;31m[Ky[m[K[01;31m[Ky[m[K[01;31m[Ky[m[K
+[01;31m[Ke[m[K
+[01;31m[Kf[m[K
+[01;31m[Ka[m[K[01;31m[Ka[m[K[01;31m[Ka[m[K[01;31m[Ka[m[K[01;31m[Ka[m[K[01;31m[Ka[m[K[01;31m[Ka[m[K[01;31m[Ka[m[K[01;31m[Ka[m[K
+[01;31m[Ka[m[K[01;31m[Ka[m[K[01;31m[Ka[m[K[01;31m[Ka[m[K
+[01;31m[Ka[m[K[01;31m[Ka[m[K
+[01;31m[Kbb[m[K
+[01;31m[Kbbb[m[K
+[01;31m[Kbbbb[m[K
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep .b\{,5\} text.txt[1@2
+[01;31m[Kbbb[m[K
+[01;31m[Kbbbb[m[K
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ egrep .b\{2,5\} text.txt[C[1P text.txt[1P text.txt[1P text.txt[1P text.txt[1P text.txt[1P text.txt[1P text.txt[1P text.txt[1P text.txt[ text.txt0 text.txt- text.txt9 text.txt] text.txt? text.txt
+Regular Expression
+
+A regular expression is like a mathematical expression.
+A mathematical expression is made of operands (data) and
+operators.
+A regular expression is made of atoms and operators.
+The atom specifies what we are looking for and where in
+the text the match is to be made.
+The operator combines atoms into complex expressions.
+[01;31m[K1[m[K[01;31m[K2[m[K[01;31m[K3[m[K [01;31m[K4[m[K[01;31m[K5[m[K [01;31m[K0[m[K.[01;31m[K5[m[K [01;31m[K3[m[K[01;31m[K4[m[K[01;31m[K5[m[K[01;31m[K6[m[K #$#%$# 
+@!$^*).
+
+hello byyy
+e
+f
+aaaaaaaaa
+aaaa
+aa
+bb
+bbb
+bbbb
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ (f(bc)\{2\}\{2\}
+bash: syntax error near unexpected token `bc'
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ (f(bc)\{2\}\{2\}e(f(bc)\{2\}\{2\}c(f(bc)\{2\}\{2\}h(f(bc)\{2\}\{2\}o(f(bc)\{2\}\{2\} (f(bc)\{2\}\{2\}
+bash: syntax error near unexpected token `f'
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ echo (f(bc)\{2\}\{2\}"[C[C"(f(bc)\{2\}\{2\}"
+(f(bc)\{2\}\{2\}
+]0;manish@DELL-MBharti: ~[01;32mmanish@DELL-MBharti[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2020-06-20 14:08:52+0530
