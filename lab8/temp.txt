@@ -1,0 +1,11 @@
+Write a MENU DRIVEN Shell Script to demonstrate the following: 
+
+
+1.	Write a shell program to find the number of unique words and vowels in a file along with line number. 
+
+2.	Write a shell script to display the frequency of occurrence of each character present in the text document and display the character which has the maximum frequency of occurrences and store it in a separate file.
+
+3.	Write a shell script to replace the string Christ University as CHRIST (Deemed to be University) in the given text document.
+
+Optional 
+
