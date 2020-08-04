@@ -1,5 +1,5 @@
-          ##MCA372 – Unix Programming
-          #Task for Lab 11 – 04.08.2020
+           MCA372 – Unix Programming
+          Task for Lab 11 – 04.08.2020
 
 AWK
 
