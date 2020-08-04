@@ -1,0 +1,23 @@
+          ##MCA372 – Unix Programming
+          #Task for Lab 11 – 04.08.2020
+
+AWK
+
+1. Create a text file of your choice and execute the following:
+      1.1. awk -f program-file input-file
+      1.2. awk &#39;{ print $3 }&#39; input file
+      1.3. awk &#39;/0.5/ { print $1 }&#39; input file
+      1.4. awk &#39;/^[0-9][0-9]/ { print $1 }&#39; input file
+      1.5. awk &#39;$2 ~ /ia/ { print $1 }&#39; input file
+      1.6. awk &#39;$2 !~ /ia/ { print $1 }&#39; input file
+      1.7. awk &#39;$3 &gt; 50 { print $1 }&#39; input file
+      1.8. awk &#39;$4 == 31, $4 == 33 { print $0 }&#39; input file
+      1.9. awk &#39;BEGIN { print &quot;Start Processing.&quot; }; { print $3 }; END {
+      print &quot;End Processing.&quot; }&#39; input file
+      1.10. awk &#39;BEGIN { FS = &quot;.&quot; } { print $1 }&#39; input file
+
+2. Prepare a single Awk command, to make a copy of this CSV file,
+    nameemailavg.csv (which attached with the program), the input is
+    a comma separated file, with three fields. The output should be
+    the same, but tab-separated.
+    {Hint: Learn Field, Line Separators with variables}
