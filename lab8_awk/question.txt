@@ -20,4 +20,3 @@ AWK
     nameemailavg.csv (which attached with the program), the input is
     a comma separated file, with three fields. The output should be
     the same, but tab-separated.
-    {Hint: Learn Field, Line Separators with variables}
