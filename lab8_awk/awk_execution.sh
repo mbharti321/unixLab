@@ -16,7 +16,7 @@ echo
 awk '{ print $3 }' input_file
 echo
 echo
-echo "1.3. awk '/0.5/ { print $1 }' input_file
+echo "1.3. awk '/0.5/ { print $1 }' input_file"
 echo
 awk '{ print $3 }' input_file
 echo
@@ -45,7 +45,7 @@ echo "1.8. awk '$4 == 31, $4 == 33 { print $0 }' input_file"
 echo
 awk '{ print $3 }' input_file
 echo
-echo "echo "1.9. awk 'BEGIN { print &quot;Start Processing.&quot; }; { print $3 }; END { print &quot;End Processing.&quot; }' input_file"
+echo "1.9. awk 'BEGIN { print &quot;Start Processing.&quot; }; { print $3 }; END { print &quot;End Processing.&quot; }' input_file"
 echo
 awk 'BEGIN { print &quot;Start Processing.&quot; }; { print $3 }; END { print &quot;End Processing.&quot; }' input_file
 echo
