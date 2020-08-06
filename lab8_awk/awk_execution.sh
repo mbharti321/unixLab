@@ -31,7 +31,7 @@ echo
 awk '{ print $3 }' input_file
 echo
 echo
-echo ""1.6. awk '$2 !~ /ia/ { print $1 }' input_file"
+echo "1.6. awk '$2 !~ /ia/ { print $1 }' input_file"
 echo
 awk '{ print $3 }' input_file
 echo
