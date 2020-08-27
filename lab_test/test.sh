@@ -46,7 +46,7 @@ function palindrome {
 			return
 		fi
 		i=`expr $i + 1`
-		len=`expr $length - 1`
+		length=`expr $length - 1`
 	done
 	echo "Given String is Palindrome"
 }
@@ -97,7 +97,7 @@ function remove_lines {
 	echo -n "Enter character :"
         read input_char
 
-	sed '/^'$input_char'/d' $input_file
+	sed '/^'$input_char'/d' $input_file | sed '/'$input_char'$/d'
 }
 
 while :
