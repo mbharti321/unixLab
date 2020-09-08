@@ -1,0 +1,12 @@
+Explaination:
+1.  c = in this program the child process is writing the string hello world at the end of pipe (f[1]) 
+      and sending it to parent process and which is reading it from pipe(f[0]). Mainly in this program 
+      both process are inter-communicating.
+
+2.  c =in this program first it is taking 10 strings from the user and the child process is writing 
+      the all the string in the end of pipe (p[1]) and sending it to parent process and which is reading
+      it from pipe(p[0]). Then the strings is being sorted by strcmp() and strcpy() and at the end it is printing.
+3.  c = in this program, first a child process is opening the file d.txt in write only mode and
+      writing in that file the string called “hello world” in the end of pipe (fp[1]) and sending 
+      it to parent process and parent process first opening file in read only mode and  reading it
+      from pipe(fp[0]) and printing that. It printing id of both the process as well.
