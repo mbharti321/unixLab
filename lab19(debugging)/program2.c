@@ -20,7 +20,8 @@ void main()
 	}
 
 
-	//We are using pipe for redirection such that output of child process can be used as input 	   for the parent process
+	//We are using pipe for redirection such that output of child process can be used as input 	
+	// 	for the parent process
 	pipe(p);
 	
 	//Calling the fork method to clone the process existing
@@ -41,7 +42,8 @@ void main()
 		
 		//PARENT PROCESS STARTS HERE
 	
-		// We will print the result in parent . So we will include rest of the code in else 		block to avoid duplication of results	
+		// We will print the result in parent . So we will include rest of the code in else 		
+		//block to avoid duplication of results	
 	
 		for(i=0;i<5;i++)
 		{
@@ -57,13 +59,18 @@ void main()
 			{
 				if( j+1 < 5 && strcmp(str[j],str[j+1])>0) 
 				
-				/* BUG encountered and cleared : Array index out of bound, since we 				   are trying to access element j+1 which is not initialized (Remember 				      there is no arrayindexoutofbound check in C , so we have to be     				 vigilant while using such expressions in our program . So using 
+				/* BUG encountered and cleared : Array index out of bound, since we 				  
+				are trying to access element j+1 which is not initialized (Remember 				    
+				there is no arrayindexoutofbound check in C , so we have to be     				 
+				vigilant while using such expressions in our program . So using 
 				 appropriate size check j+1<5 such that it doesnt exceed the size*/
 				
 				{
 				
-				/* Here we are comparing the first non common occuring character of 				   both the strings and if the character of first string is having 
-				 higher ASCII value as compared to the other, it returns a possitve 				    value and this block is executed which does the swapping of two 
+				/* Here we are comparing the first non common occuring character of 				 
+				both the strings and if the character of first string is having 
+				 higher ASCII value as compared to the other, it returns a possitve 				    
+				 value and this block is executed which does the swapping of two 
  				 strings and sorts the whole string array in ascending order*/				 
 				
 					//printf("Swap");			
