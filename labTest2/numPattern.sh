@@ -6,7 +6,7 @@ echo
 tempArray=(-1 0 1 3 5)
 
 #to print first half
-for i in {5..1}
+for i in {5..1} #{5,4,3,2,1}
 do
 	temp=$i
 	while [ $i -ge 0 ]
