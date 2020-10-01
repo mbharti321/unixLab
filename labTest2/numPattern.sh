@@ -2,10 +2,9 @@ echo "Name : MAnish Bharti"
 echo "Register No.: 1947235"
 echo
 
- 
-#echo -ne "Enter no of MaxNum : "
-#read level
+
 tempArray=(-1 0 1 3 5)
+
 #to print first half
 for i in {5..1}
 do
